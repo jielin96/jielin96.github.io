@@ -1,4 +1,6 @@
-# Jie Lin（林杰）<img src=https://user-images.githubusercontent.com/84367087/118602883-d55d7e00-b7e5-11eb-8f61-358f35c07cae.jpg width=30% />
+# Jie Lin（林杰）
+
+<img src=https://user-images.githubusercontent.com/84367087/118602883-d55d7e00-b7e5-11eb-8f61-358f35c07cae.jpg width=30% />
 
 I am currently pursuing the Ph.D. degree (advised by Prof. [Ting-Zhu Huang](https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/10482?yxsh=11) and Prof. [Xi-Le Zhao](https://zhaoxile.github.io/)) with the School of Mathematical Sciences, University of Electronic Science and Technology of China (UESTC), Chengdu, China.
 
