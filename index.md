@@ -21,7 +21,7 @@ I am currently pursuing the Ph.D. degree (advised by Prof. [Ting-Zhu Huang](http
 
   [1] **J. Lin**, T.-Z. Huang*, X.-L. Zhao*, M. Ding, Y. Chen, T.-X. Jiang, "A Blind Cloud/Shadow Removal Strategy for Multi-Temporal Remote Sensing Images", _IEEE International Geoscience and Remote Sensing Symposium_, 2021. [Accepted]
   
-  [2] Meng Ding, Ting-Zhu Huang*, Xi-Le Zhao*, **Jie Lin**, Jing-Hua Yang, "Factor-Regularized Nonnegtive Tensor Decomposition for Blind Hyperspectral Unmixing", _IEEE International Geoscience and Remote Sensing Symposium_, 2021. [Accepted]
+  [2] M. Ding, T.-Z. Huang*, Xi-Le Zhao*, **J. Lin**, J.-H. Yang, "Factor-Regularized Nonnegtive Tensor Decomposition for Blind Hyperspectral Unmixing", _IEEE International Geoscience and Remote Sensing Symposium_, 2021. [Accepted]
   
   
 ### Award
