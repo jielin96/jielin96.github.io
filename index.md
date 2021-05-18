@@ -1,10 +1,28 @@
-## Welcome to Jie Lin's Homepage
 
-You can use the [editor on GitHub](https://github.com/jielin96/jielin96.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+# Jie Lin
+I am currently pursuing the Ph.D. degree (advised by Prof. [Ting-Zhu Huang](https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/10482?yxsh=11) and Prof. [Xi-Le Zhao](https://zhaoxile.github.io/)) with the School of Mathematical Sciences, University of Electronic Science and Technology of China (UESTC), Chengdu, China.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Research Interest:** low-rank and sparse modeling, tensor decomposition, and highdimensional image processing.
 
-### Markdown
+**E-mail:** jielin96@126.com.
+
+### Education
+### Publication
+- Journal:
+
+  [1]
+  
+  [2]
+  
+  [3]
+- Conference:
+
+  [1] ddd
+### Award
+
+
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
