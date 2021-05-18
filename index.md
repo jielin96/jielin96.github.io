@@ -12,8 +12,7 @@ I am currently pursuing the Ph.D. degree (advised by Prof. [Ting-Zhu Huang](http
 ### Publication
 - Journal:
 
-  [1] **J. Lin**, T.-Z. Huang, X.-L. Zhao, T.-X. Jiang, L. Zhuang, "A Tensor Subspace Representation-Based Method for Hyperspectral Image Denoising", _IEEE Transactions on Geoscience and Remote Sensing_, doi: 10.1109/TGRS.2020.3032168. [[PDF]](https://github.com/jielin96/jielin96.github.io/files/6498663/09254145.pdf)
-
+  [1] **J. Lin**, T.-Z. Huang, X.-L. Zhao, T.-X. Jiang, L. Zhuang, "A Tensor Subspace Representation-Based Method for Hyperspectral Image Denoising", _IEEE Transactions on Geoscience and Remote Sensing_, doi: 10.1109/TGRS.2020.3032168. [[PDF]](https://github.com/jielin96/jielin96.github.io/files/6498663/09254145.pdf
   
   [2] **J. Lin**, T.-Z. Huang, X.-L. Zhao, T.-H. Ma, T.-X. Jiang, Y.-B. Zheng, "A Novel Non-Convex Low-Rank Tensor Approximation Model for Hyperspectral Image Restoration", _Applied Mathematics and Computation_.
   
@@ -28,7 +27,16 @@ I am currently pursuing the Ph.D. degree (advised by Prof. [Ting-Zhu Huang](http
   
 
 ### Education
+
+- 09/2020-Current: University of Electronic Science and Technology of China (UESTC); Ph. D. student in Applied Mathematics (Supervisor: Prof. Ting-Zhu Huang)
+- 09/2018-06/2020: University of Electronic Science and Technology of China (UESTC); Master student in Applied Mathematics (Supervisor: Prof. Ting-Zhu Huang)
+- 09/2014-06/2018: Anhui University of Finance and Economics (AUFE); Bachelor student in Information and Computing Science
+
+
 ### Award
 
+- Special Postgraduate Scholarship of Science, UESTC, 2020
+- Outstanding Undergraduate, AUFE, 2018
+- National Scholarship for Bachelor student, AUFE, 2015
 
 
