@@ -5,7 +5,7 @@
 I am currently pursuing the Ph.D. degree (advised by Prof. [Ting-Zhu Huang](https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/10482?yxsh=11) and Prof. [Xi-Le Zhao](https://zhaoxile.github.io/)) with the School of Mathematical Sciences, University of Electronic Science and Technology of China (UESTC), Chengdu, China.
 
 
-**Research Interest:** low-rank and sparse modeling, tensor decomposition, and highdimensional image processing.
+**Research Interest:** low-rank and sparse modeling, tensor decomposition, and high-dimensional image processing.
 
 **E-mail:** jielin96@126.com.
 
@@ -23,7 +23,7 @@ I am currently pursuing the Ph.D. degree (advised by Prof. [Ting-Zhu Huang](http
 
   [1] **J. Lin**, T.-Z. Huang, X.-L. Zhao, M. Ding, Y. Chen, T.-X. Jiang, "A Blind Cloud/Shadow Removal Strategy for Multi-Temporal Remote Sensing Images", _IEEE International Geoscience and Remote Sensing Symposium_, 2021. [Accepted]
   
-  [2] M. Ding, T.-Z. Huang, Xi-Le Zhao, **J. Lin**, J.-H. Yang, "Factor-Regularized Nonnegtive Tensor Decomposition for Blind Hyperspectral Unmixing", _IEEE International Geoscience and Remote Sensing Symposium_, 2021. [Accepted]
+  [2] M. Ding, T.-Z. Huang, Xi-Le Zhao, **J. Lin**, J.-H. Yang, "Factor-Regularized Nonnegative Tensor Decomposition for Blind Hyperspectral Unmixing", _IEEE International Geoscience and Remote Sensing Symposium_, 2021. [Accepted]
   
 
 ### Education
