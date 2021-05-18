@@ -1,9 +1,7 @@
 
 # Jie Lin
 I am currently pursuing the Ph.D. degree (advised by Prof. [Ting-Zhu Huang](https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/10482?yxsh=11) and Prof. [Xi-Le Zhao](https://zhaoxile.github.io/)) with the School of Mathematical Sciences, University of Electronic Science and Technology of China (UESTC), Chengdu, China.
-
 **Research Interest:** low-rank and sparse modeling, tensor decomposition, and highdimensional image processing.
-
 **E-mail:** jielin96@126.com.
 
 ### Education
