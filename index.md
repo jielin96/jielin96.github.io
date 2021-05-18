@@ -12,7 +12,7 @@ I am currently pursuing the Ph.D. degree (advised by Prof. [Ting-Zhu Huang](http
 ### Publication
 - Journal:
 
-  [1] **J. Lin**, T.-Z. Huang, X.-L. Zhao, T.-X. Jiang, L. Zhuang, "A Tensor Subspace Representation-Based Method for Hyperspectral Image Denoising", _IEEE Transactions on Geoscience and Remote Sensing_, doi: 10.1109/TGRS.2020.3032168. [[PDF]](https://github.com/jielin96/jielin96.github.io/files/6498663/09254145.pdf
+  [1] **J. Lin**, T.-Z. Huang, X.-L. Zhao, T.-X. Jiang, L. Zhuang, "A Tensor Subspace Representation-Based Method for Hyperspectral Image Denoising", _IEEE Transactions on Geoscience and Remote Sensing_, doi: 10.1109/TGRS.2020.3032168. [[PDF]](https://github.com/jielin96/jielin96.github.io/files/6498663/09254145.pdf)
   
   [2] **J. Lin**, T.-Z. Huang, X.-L. Zhao, T.-H. Ma, T.-X. Jiang, Y.-B. Zheng, "A Novel Non-Convex Low-Rank Tensor Approximation Model for Hyperspectral Image Restoration", _Applied Mathematics and Computation_.
   
