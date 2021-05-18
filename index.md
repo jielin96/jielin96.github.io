@@ -9,12 +9,12 @@ I am currently pursuing the Ph.D. degree (advised by Prof. [Ting-Zhu Huang](http
 ### Publication
 - Journal:
 
-  [1] **J. Lin**, T.-Z. Huang*, X.-L. Zhao*, T.-X. Jiang, L. Zhuang, "A Tensor Subspace Representation-Based Method for Hyperspectral Image Denoising," _IEEE Transactions on Geoscience and Remote Sensing_, doi: 10.1109/TGRS.2020.3032168. [[PDF]](https://github.com/jielin96/jielin96.github.io/files/6498663/09254145.pdf)
+  [1] **J. Lin**, T.-Z. Huang*, X.-L. Zhao*, T.-X. Jiang, L. Zhuang, "A Tensor Subspace Representation-Based Method for Hyperspectral Image Denoising", _IEEE Transactions on Geoscience and Remote Sensing_, doi: 10.1109/TGRS.2020.3032168. [[PDF]](https://github.com/jielin96/jielin96.github.io/files/6498663/09254145.pdf)
 
   
   [2] **J. Lin**, T.-Z. Huang*, X.-L. Zhao, T.-H. Ma, T.-X. Jiang, Y.-B. Zheng, "A Novel Non-Convex Low-Rank Tensor Approximation Model for Hyperspectral Image Restoration", _Applied Mathematics and Computation_.
   
-  [3] S.-S. Xu, T.-Z. Huang*, **J. Lin***, Y. Chen, "T-Hy-Demosaicing: Hyperspectral Reconstruction via Tensor Subspace Representation under Orthogonal Transformation," _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, doi: 10.1109/JSTARS.2021.3076793. [[pdf]]([09420231_compressed.pdf](https://github.com/jielin96/jielin96.github.io/files/6498726/09420231_compressed.pdf)
+  [3] S.-S. Xu, T.-Z. Huang*, **J. Lin***, Y. Chen, "T-Hy-Demosaicing: Hyperspectral Reconstruction via Tensor Subspace Representation under Orthogonal Transformation", _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, doi: 10.1109/JSTARS.2021.3076793. [[pdf]](https://github.com/jielin96/jielin96.github.io/files/6498726/09420231_compressed.pdf)
 
 
 - Conference:
