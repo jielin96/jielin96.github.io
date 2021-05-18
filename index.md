@@ -28,8 +28,8 @@ I am currently pursuing the Ph.D. degree (advised by Prof. [Ting-Zhu Huang](http
 
 ### Education
 
-- 09/2020-Current: University of Electronic Science and Technology of China (UESTC); Ph. D. student in Applied Mathematics (Supervisor: Prof. Ting-Zhu Huang)
-- 09/2018-06/2020: University of Electronic Science and Technology of China (UESTC); Master student in Applied Mathematics (Supervisor: Prof. Ting-Zhu Huang)
+- 09/2020-Current: University of Electronic Science and Technology of China (UESTC); Ph. D. student in Mathematics (Supervisor: Prof. Ting-Zhu Huang)
+- 09/2018-06/2020: University of Electronic Science and Technology of China (UESTC); Master student in Mathematics (Supervisor: Prof. Ting-Zhu Huang)
 - 09/2014-06/2018: Anhui University of Finance and Economics (AUFE); Bachelor student in Information and Computing Science
 
 
