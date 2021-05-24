@@ -38,15 +38,3 @@ I am currently pursuing the Ph.D. degree (advised by Prof. [Ting-Zhu Huang](http
 - Outstanding Undergraduate, AUFE, 2018
 - National Scholarship for Bachelor student, AUFE, 2015
 
-
-<a  name="Visitors">&nbsp; </a>
-<h2>Visitors:</h2>
-<ul>
-<p>
-<td align="center">
-<div style="text-align:center;display:inline-block;width:330px;"><script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=51ldn1fwksc&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script></div>
-</td>
-</p>
-</ul>
-
-
