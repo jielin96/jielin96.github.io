@@ -38,7 +38,7 @@ I am currently pursuing the Ph.D. degree (advised by Prof. [Ting-Zhu Huang](http
 - National Scholarship for Bachelor student, AUFE, 2015
 
 <br/>
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=356dc2&w=400&t=tt&d=33rfvldNVUcycfQXDZFOyRp8Yqp-wB8RiOMqgHfUEfI&co=ffffff&ct=000000'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=356dc2&w=400&t=tt&d=33rfvldNVUcycfQXDZFOyRp8Yqp-wB8RiOMqgHfUEfI&co=fffbfb&ct=000000'></script>
 
 
 
