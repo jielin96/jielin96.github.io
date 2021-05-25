@@ -37,3 +37,9 @@ I am currently pursuing the Ph.D. degree (advised by Prof. [Ting-Zhu Huang](http
 - Outstanding Undergraduate, AUFE, 2018
 - National Scholarship for Bachelor student, AUFE, 2015
 
+<div class="analytics"  style="border: solid lightgrey; border-radius: 5px;">
+	<h3> Analytics </h3>
+	{% include clustrmap.html style="js" %}
+	<p> <small> If you are not seeing a map, please disable Ad block </small></p>
+</div>
+
