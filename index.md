@@ -38,9 +38,7 @@ I am currently pursuing the Ph.D. degree (advised by Prof. [Ting-Zhu Huang](http
 - National Scholarship for Bachelor student, AUFE, 2015
 
 <div class="analytics"  style="border: solid lightgrey; border-radius: 5px;">
-	<h3> Analytics </h3>
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=33rfvldNVUcycfQXDZFOyRp8Yqp-wB8RiOMqgHfUEfI&cl=ffffff&w=a"></script>
-	<p> <small> If you are not seeing a map, please disable Ad block </small></p>
 </div>
 
 
