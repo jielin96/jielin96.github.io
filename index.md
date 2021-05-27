@@ -14,7 +14,7 @@ I am currently pursuing the Ph.D. degree (advised by Prof. [Ting-Zhu Huang](http
   
   [2] **J. Lin**, T.-Z. Huang, X.-L. Zhao, T.-H. Ma, T.-X. Jiang, Y.-B. Zheng, "A Novel Non-Convex Low-Rank Tensor Approximation Model for Hyperspectral Image Restoration", _Applied Mathematics and Computation_, vol. 408, pp. 126342, 2021. [[PDF]](https://github.com/jielin96/jielin96.github.io/files/6529346/1-s2.0-S0096300321004318-main.pdf)
   
-  [3] S.-S. Xu, T.-Z. Huang, **J. Lin**, Y. Chen, "T-Hy-Demosaicing: Hyperspectral Reconstruction via Tensor Subspace Representation under Orthogonal Transformation", _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, doi: 10.1109/JSTARS.2021.3076793. [[PDF]](https://github.com/jielin96/jielin96.github.io/files/6498726/09420231_compressed.pdf)
+  [3] S.-S. Xu, T.-Z. Huang, **J. Lin**, Y. Chen, "T-Hy-Demosaicing: Hyperspectral Reconstruction via Tensor Subspace Representation under Orthogonal Transformation", _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, doi: 10.1109/JSTARS.2021.3076793. [[PDF]](https://github.com/jielin96/jielin96.github.io/files/6550740/JSTARS3076793.1.pdf)
 
 
 - Conference:
