@@ -7,7 +7,7 @@ I am currently pursuing the Ph.D. degree (advised by Prof. [Ting-Zhu Huang](http
 <br/>
 **E-mail:** jielin96@126.com.
 <br/>
-**[Google Scholar](https://scholar.google.com/citations?user=sPcpHncAAAAJ&hl=en)** &emsp; **[ResearchGate](https://www.researchgate.net/profile/Jie-Lin-61)** &emsp; **[GitHub](https://github.com/jielin96)**
+**[[Google Scholar]](https://scholar.google.com/citations?user=sPcpHncAAAAJ&hl=en)** &emsp; **[[ResearchGate]](https://www.researchgate.net/profile/Jie-Lin-61)** &emsp; **[[GitHub]](https://github.com/jielin96)**
 
 
 ### Publication
