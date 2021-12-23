@@ -30,6 +30,15 @@ I am currently pursuing the Ph.D. degree (advised by Prof. [Ting-Zhu Huang](http
   
   [2] M. Ding, T.-Z. Huang, X.-L. Zhao, **J. Lin**, J.-H. Yang, "Factor-Regularized Nonnegative Tensor Decomposition for Blind Hyperspectral Unmixing", _IEEE International Geoscience and Remote Sensing Symposium_, 2021. [[PDF]](https://ieeexplore.ieee.org/document/9554525)
   
+  
+### Report
+
+- 10/2021: “A Tensor Subspace Representation Based Method for Hyperspectral Image Denoising”, CSIAM 2021, Anhui, China, [[Slide]](https://github.com/jielin96/jielin96.github.io/files/7766871/CSIAM_Hefei.pdf)
+
+
+- 07/2021: “A Blind Cloud/Shadow Removal Strategy for Multi-Temporal Remote Sensing Images”, IGARSS 2021, Online, [[Slide]](https://github.com/jielin96/jielin96.github.io/files/7766873/IGARSS.2.pdf)
+
+  
 
 ### Education
 
@@ -40,6 +49,7 @@ I am currently pursuing the Ph.D. degree (advised by Prof. [Ting-Zhu Huang](http
 
 ### Award
 
+- First-class academic scholarship, UESTC, 2021
 - Special Postgraduate Scholarship of Science, UESTC, 2020
 - Outstanding Undergraduate, AUFE, 2018
 - National Scholarship for Bachelor student, AUFE, 2015
