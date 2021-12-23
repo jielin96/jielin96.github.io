@@ -21,7 +21,7 @@ I am currently pursuing the Ph.D. degree (advised by Prof. [Ting-Zhu Huang](http
   
   [4] H. Li, X.-L. Zhao^, **J. Lin** and Y. Chen, "Low-Rank Tensor Optimization with Nonlocal Plug-and-Play Regularizers for Snapshot Compressive Imaging," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2021. [[PDF]] (https://ieeexplore.ieee.org/document/9655474)
   
-  [4] J. Huang^, W.-C. Di, J.-J. Wang, **J. Lin**, T.-Z. Huang, "Bilateral Joint-Sparse Regression for Hyperspectral Unmixing," _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 14, pp. 10147-10161, 2021. [[PDF]](https://github.com/jielin96/jielin96.github.io/files/7415298/Bilateral_Joint-Sparse_Regression_for_Hyperspectral_Unmixing.pdf) 
+  [5] J. Huang^, W.-C. Di, J.-J. Wang, **J. Lin**, T.-Z. Huang, "Bilateral Joint-Sparse Regression for Hyperspectral Unmixing," _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 14, pp. 10147-10161, 2021. [[PDF]](https://github.com/jielin96/jielin96.github.io/files/7415298/Bilateral_Joint-Sparse_Regression_for_Hyperspectral_Unmixing.pdf) 
 
 
 - Conference:
