@@ -13,7 +13,7 @@ I am currently pursuing the Ph.D. degree (advised by Prof. [Ting-Zhu Huang](http
 ### Publication
 - Journal:
 
-  [1] **J. Lin**, T.-Z. Huang^, X.-L. Zhao^, Y. Chen, Q. Zhang, Q. Yuan, "Robust Thick Cloud Removal for Multi-Temporal Remote Sensing Images Using Coupled Tensor Factorization", _IEEE Transactions on Geoscience and Remote Sensing_, 2022. [[PDF]](https://ieeexplore.ieee.org/document/9672204)
+  [1] **J. Lin**, T.-Z. Huang^, X.-L. Zhao^, Y. Chen, Q. Zhang, Q. Yuan, "Robust Thick Cloud Removal for Multi-Temporal Remote Sensing Images Using Coupled Tensor Factorization", _IEEE Transactions on Geoscience and Remote Sensing_, 2022, doi: 10.1109/TGRS.2022.3140800. [[PDF]](https://ieeexplore.ieee.org/document/9672204)
 
   [2] **J. Lin**, T.-Z. Huang^, X.-L. Zhao^, T.-X. Jiang, L. Zhuang, "A Tensor Subspace Representation Based Method for Hyperspectral Image Denoising", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 59, no. 9, pp. 7739-7757, 2021. [[PDF]](https://github.com/jielin96/jielin96.github.io/files/7084858/TenSRDe_Lin.pdf)  [[Code]](https://drive.google.com/file/d/1Tj-8Js-MU7Xm9HJCaVfxGCAW-h86Cfwy/view?usp=sharing)
   
