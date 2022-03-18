@@ -21,7 +21,7 @@ I am currently pursuing the Ph.D. degree (advised by Prof. [Ting-Zhu Huang](http
   
   [4] S.-S. Xu, T.-Z. Huang^, **J. Lin**^, Y. Chen, "T-Hy-Demosaicing: Hyperspectral Reconstruction via Tensor Subspace Representation under Orthogonal Transformation", _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 14, pp. 4842-4853, 2021. [[PDF]](https://github.com/jielin96/jielin96.github.io/files/6550740/JSTARS3076793.1.pdf)
   
-  [5] Z.-Y. Chen, X.-L. Zhao^, **J. Lin**, Y. Chen, "Nonlocal-Based Tensor-Average-Rank Minimization and Tensor Transform-Sparsity for 3D Image Denoising", _Knowledge-Based Systems_, [[PDF]](https://www.sciencedirect.com/science/article/pii/S0950705122002647).
+  [5] Z.-Y. Chen, X.-L. Zhao^, **J. Lin**, Y. Chen, "Nonlocal-Based Tensor-Average-Rank Minimization and Tensor Transform-Sparsity for 3D Image Denoising", _Knowledge-Based Systems_, [[PDF]](https://www.sciencedirect.com/science/article/pii/S0950705122002647)
   
   [6] H. Li, X.-L. Zhao^, **J. Lin** and Y. Chen, "Low-Rank Tensor Optimization with Nonlocal Plug-and-Play Regularizers for Snapshot Compressive Imaging,"  _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 15, pp. 581-593, 2021. [[PDF]](https://ieeexplore.ieee.org/document/9655474)
   
