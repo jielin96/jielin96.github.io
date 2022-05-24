@@ -51,10 +51,11 @@ I am currently pursuing the Ph.D. degree (advised by Prof. [Ting-Zhu Huang](http
 
 ### Award
 
-- First-class academic scholarship, UESTC, 2021
+- Academic Rookie, UESTC, 2022
+- First-class Academic Scholarship, UESTC, 2021
 - Special Postgraduate Scholarship of Science, UESTC, 2020
 - Outstanding Undergraduate, AUFE, 2018
-- National Scholarship for Bachelor student, AUFE, 2015
+- National Scholarship for Bachelor Student, AUFE, 2015
 
 <br/>
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=tt&d=33rfvldNVUcycfQXDZFOyRp8Yqp-wB8RiOMqgHfUEfI'></script>
