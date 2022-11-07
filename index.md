@@ -51,6 +51,7 @@ I am currently pursuing the Ph.D. degree (advised by Prof. [Ting-Zhu Huang](http
 
 ### Award
 
+- National Scholarship for Ph.D. Student, UESTC, 2022
 - Academic Rookie, UESTC, 2022
 - First-class Academic Scholarship, UESTC, 2021
 - Special Postgraduate Scholarship of Science, UESTC, 2020
