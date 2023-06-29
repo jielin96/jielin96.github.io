@@ -5,7 +5,7 @@ I am currently pursuing the Ph.D. degree (advised by Prof. [Ting-Zhu Huang](http
 <br/>
 **Research Interest:** low-rank and sparse modeling, tensor decomposition, and high-dimensional image processing.
 <br/>
-**E-mail:** jielin96@126.com.
+**E-mail:** jielin96@126.com  jie.lin.jz@a.riken.jp
 <br/>
 **[[Google Scholar]](https://scholar.google.com/citations?user=sPcpHncAAAAJ&hl=en)** &emsp; **[[ResearchGate]](https://www.researchgate.net/profile/Jie-Lin-61)** &emsp; **[[GitHub]](https://github.com/jielin96)**
 
