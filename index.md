@@ -46,7 +46,7 @@ I am currently pursuing the Ph.D. degree (advised by Prof. [Ting-Zhu Huang](http
 - 07/2021: “A Blind Cloud/Shadow Removal Strategy for Multi-Temporal Remote Sensing Images”, IGARSS 2021, Online, [[Slides]](https://github.com/jielin96/jielin96.github.io/files/7766873/IGARSS.2.pdf)
 
 ### Experience
-- 06/2023-Current: 
+- 06/2023-Current: Tensor Learning Team, RIKEN Center for Advanced Intelligence Project, Japan; Intern (Supervisor: [Qibin Zhao](https://qibinzhao.github.io/))
 
 ### Education
 
