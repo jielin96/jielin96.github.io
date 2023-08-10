@@ -21,7 +21,7 @@ I am currently pursuing the Ph.D. degree (advised by Prof. [Ting-Zhu Huang](http
   
   [4] S.-S. Xu, T.-Z. Huang^, **J. Lin**^, Y. Chen, "T-Hy-Demosaicing: Hyperspectral Reconstruction via Tensor Subspace Representation under Orthogonal Transformation", _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 14, pp. 4842-4853, 2021. [[PDF]](https://github.com/jielin96/jielin96.github.io/files/6550740/JSTARS3076793.1.pdf)
   
-  [5] Z.-Y. Chen, X.-L. Zhao^, **J. Lin**, Y. Chen, "Nonlocal-Based Tensor-Average-Rank Minimization and Tensor Transform-Sparsity for 3D Image Denoising", _Knowledge-Based Systems_, vol. 244, pp. 108590, 2022. [[PDF]](https://www.sciencedirect.com/science/article/pii/S0950705122002647)
+  [5] Z.-Y. Chen, X.-L. Zhao^, **J. Lin**, Y. Chen, "Nonlocal-Based Tensor-Average-Rank Minimization and Tensor Transform-Sparsity for 3D Image Denoising", _Knowledge-Based Systems_, vol. 244, pp. 108590, 2022. [[PDF]](https://www.sciencedirect.com/science/article/pii/S0950705122002647)  [[Code]](https://drive.google.com/file/d/1OLIFDJPdbNRUvvBy-q9A6LRZ8XAo0ojV/view?usp=sharing)
 
   [6] Q. Jiang, X.-L. Zhao^, **J. Lin**, Y.-R. Fan, J. Peng, G.-C. Wu, "Superpixel-based Robust Tensor Low-Rank Approximation for Multimedia Data Recovery", _Knowledge-Based Systems_, pp. 110812, 2023. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0950705123005622) 
   
