@@ -1,7 +1,6 @@
 # Jie Lin（林杰）
-![891271699891961_ pic_hd]()
 
-<img src="https://github.com/jielin96/jielin96.github.io/assets/84367087/5fb08d82-c2f1-4977-9ab9-0688f9ee46e8" width = "464" height = "627" alt="" align=right />
+<img src="https://github.com/jielin96/jielin96.github.io/assets/84367087/5804cf00-5703-4029-9627-c7881550202b" width = "247" height = "334" alt="" align=right />
 I am currently pursuing the Ph.D. degree (advised by Prof. [Ting-Zhu Huang](https://www.researchgate.net/profile/Ting-Zhu-Huang) and Prof. [Xi-Le Zhao](https://zhaoxile.github.io/)) in Mathematics at [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) (UESTC), Chengdu, China.
 <br/>
 **Research Interest:** low-rank and sparse modeling, tensor decomposition, and high-dimensional image processing.
