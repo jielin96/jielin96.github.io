@@ -3,13 +3,10 @@
 <img src="https://github.com/jielin96/jielin96.github.io/assets/84367087/acfb3f1c-7acd-4030-bea5-cef8978c4ff7" width = "174" height = "217" alt="" align=right />
 I am currently pursuing the Ph.D. degree (advised by Prof. [Ting-Zhu Huang](https://www.researchgate.net/profile/Ting-Zhu-Huang) and Prof. [Xi-Le Zhao](https://zhaoxile.github.io/)) in Mathematics at [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) (UESTC), Chengdu, China.
 
-<br/>
 **Research Interest:** low-rank and sparse modeling, tensor decomposition, and high-dimensional image processing.
 
-<br/>
 **E-mail:** jielin96@126.com;  jie.lin.jz@a.riken.jp.
 
-<br/>
 **[[Google Scholar]](https://scholar.google.com/citations?user=sPcpHncAAAAJ&hl=en)** &emsp; **[[ResearchGate]](https://www.researchgate.net/profile/Jie-Lin-61)** &emsp; **[[GitHub]](https://github.com/jielin96)**
 
 
