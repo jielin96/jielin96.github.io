@@ -31,7 +31,7 @@ I am currently pursuing the Ph.D. degree (advised by Prof. [Ting-Zhu Huang](http
   
   [9] L.-Y. Li, T.-Z. Huang^, Y.-B. Zheng^, W.-J. Zheng, **J. Lin**, G.-C. Wu, X.-L. Zhao, "Thick Cloud Removal for Multitemporal Remote Sensing Images: When Tensor Ring Decomposition Meets Gradient Domain Fidelity", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 61, pp. 1-14, 2023, Art no. 5512414. [[PDF]](https://ieeexplore.ieee.org/document/10125571?source=authoralert)
 
-  [10] Y.-J. Pan, C. Wen, X.-L. Zhao^, M. Ding, **J. Lin**, Y.-R. Fan, "Irregular Tensor Representation for Superpixel-Guided Hyperspectral Image Denoising", IEEE Geoscience and Remote Sensing Letters, vol. 20, pp. 1-5, 2023, Art no. 5512305. [[PDF]](https://ieeexplore.ieee.org/document/10309852)
+  [10] Y.-J. Pan, C. Wen, X.-L. Zhao^, M. Ding, **J. Lin**, Y.-R. Fan, "Irregular Tensor Representation for Superpixel-Guided Hyperspectral Image Denoising", _IEEE Geoscience and Remote Sensing Letters_, vol. 20, pp. 1-5, 2023, Art no. 5512305. [[PDF]](https://ieeexplore.ieee.org/document/10309852)
   
   [11] J. Huang^, W.-C. Di, J.-J. Wang, **J. Lin**, T.-Z. Huang, "Bilateral Joint-Sparse Regression for Hyperspectral Unmixing," _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 14, pp. 10147-10161, 2021. [[PDF]](https://github.com/jielin96/jielin96.github.io/files/7415298/Bilateral_Joint-Sparse_Regression_for_Hyperspectral_Unmixing.pdf) 
 
