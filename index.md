@@ -5,7 +5,7 @@ I am currently pursuing the Ph.D. degree (advised by Prof. [Ting-Zhu Huang](http
 
 **Research Interest:** low-rank and sparse modeling, tensor decomposition, and high-dimensional image processing.
 <br/>
-**E-mail:** jielin96@126.com;  jie.lin.jz@a.riken.jp.
+**E-mail:** jielin96@126.com
 <br/>
 **[[Google Scholar]](https://scholar.google.com/citations?user=sPcpHncAAAAJ&hl=en)** &emsp; **[[ResearchGate]](https://www.researchgate.net/profile/Jie-Lin-61)** &emsp; **[[GitHub]](https://github.com/jielin96)**
 
@@ -51,7 +51,7 @@ I am currently pursuing the Ph.D. degree (advised by Prof. [Ting-Zhu Huang](http
 - 07/2021: “A Blind Cloud/Shadow Removal Strategy for Multi-Temporal Remote Sensing Images”, IGARSS 2021, Online. [[Slides]](https://github.com/jielin96/jielin96.github.io/files/7766873/IGARSS.2.pdf)
 
 ### Experience
-- 05/2023-Current: Tensor Learning Team, RIKEN Center for Advanced Intelligence Project, Japan; Intern (Supervisor: [Qibin Zhao](https://qibinzhao.github.io/))
+- 05/2023-11/2023: Tensor Learning Team, RIKEN Center for Advanced Intelligence Project, Japan; Intern (Supervisor: [Qibin Zhao](https://qibinzhao.github.io/))
 
 ### Education
 
@@ -62,6 +62,7 @@ I am currently pursuing the Ph.D. degree (advised by Prof. [Ting-Zhu Huang](http
 
 ### Award
 
+- Excellent Graduate in Sichuan, UESTC, 2024
 - National Scholarship for Ph.D. Student, UESTC, 2022
 - Academic Rookie, UESTC, 2022
 - First-class Academic Scholarship, UESTC, 2021
