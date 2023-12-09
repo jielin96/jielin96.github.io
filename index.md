@@ -1,9 +1,9 @@
 # Jie Lin（林杰）
 
 <img src="https://github.com/jielin96/jielin96.github.io/assets/84367087/acfb3f1c-7acd-4030-bea5-cef8978c4ff7" width = "174" height = "217" alt="" align=right />
-I am currently pursuing the Ph.D. degree (advised by Prof. [Ting-Zhu Huang](https://www.researchgate.net/profile/Ting-Zhu-Huang) and Prof. [Xi-Le Zhao](https://zhaoxile.github.io/)) in Mathematics at [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) (UESTC), Chengdu, China.
+I am currently pursuing the Ph.D. degree (advised by Prof. [Ting-Zhu Huang](https://www.researchgate.net/profile/Ting-Zhu-Huang) and Prof. [Xi-Le Zhao](https://zhaoxile.github.io/)) in Mathematics at [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) (UESTC), Chengdu, China
 
-**Research Interest:** low-rank and sparse modeling, tensor decomposition, and high-dimensional image processing.
+**Research Interest:** low-rank and sparse modeling, tensor decomposition, and high-dimensional image processing
 <br/>
 **E-mail:** jielin96@126.com
 <br/>
@@ -51,7 +51,7 @@ I am currently pursuing the Ph.D. degree (advised by Prof. [Ting-Zhu Huang](http
 - 07/2021: “A Blind Cloud/Shadow Removal Strategy for Multi-Temporal Remote Sensing Images”, IGARSS 2021, Online. [[Slides]](https://github.com/jielin96/jielin96.github.io/files/7766873/IGARSS.2.pdf)
 
 ### Experience
-- 05/2023-11/2023: Tensor Learning Team, RIKEN Center for Advanced Intelligence Project, Japan; Intern (Supervisor: [Qibin Zhao](https://qibinzhao.github.io/))
+- 05/2023-11/2023: Tensor Learning Team, RIKEN Center for Advanced Intelligence Project, Japan; Intern (Supervisor: Prof. [Qibin Zhao](https://qibinzhao.github.io/))
 
 ### Education
 
@@ -62,7 +62,7 @@ I am currently pursuing the Ph.D. degree (advised by Prof. [Ting-Zhu Huang](http
 
 ### Award
 
-- Excellent Graduate in Sichuan, UESTC, 2024
+- Outstanding Graduate in Sichuan, UESTC, 2024
 - National Scholarship for Ph.D. Student, UESTC, 2022
 - Academic Rookie, UESTC, 2022
 - First-class Academic Scholarship, UESTC, 2021
