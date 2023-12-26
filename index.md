@@ -23,17 +23,19 @@ I am currently pursuing the Ph.D. degree (advised by Prof. [Ting-Zhu Huang](http
   
   [5] Z.-Y. Chen, X.-L. Zhao^, **J. Lin**, Y. Chen, "Nonlocal-Based Tensor-Average-Rank Minimization and Tensor Transform-Sparsity for 3D Image Denoising", _Knowledge-Based Systems_, vol. 244, pp. 108590, 2022. [[PDF]](https://www.sciencedirect.com/science/article/pii/S0950705122002647)  [[Code]](https://drive.google.com/file/d/1OLIFDJPdbNRUvvBy-q9A6LRZ8XAo0ojV/view?usp=sharing)
 
-  [6] Q. Jiang, X.-L. Zhao^, **J. Lin**, Y.-R. Fan, J. Peng, G.-C. Wu, "Superpixel-based Robust Tensor Low-Rank Approximation for Multimedia Data Recovery", _Knowledge-Based Systems_, vol. 277, pp. 110812, 2023. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0950705123005622) 
-  
-  [7] H. Li, X.-L. Zhao^, **J. Lin**, Y. Chen, "Low-Rank Tensor Optimization with Nonlocal Plug-and-Play Regularizers for Snapshot Compressive Imaging",  _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 15, pp. 581-593, 2021. [[PDF]](https://ieeexplore.ieee.org/document/9655474)
-  
-  [8] W.-J. Zheng, X.-L. Zhao^, Y.-B. Zheng, **J. Lin**, L. Zhuang, T.-Z. Huang, "Spatial-Spectral-Temporal Connective Tensor Network Decomposition for Thick Cloud Removal", _ISPRS Journal of Photogrammetry and Remote Sensing_, vol. 199, pp. 182-194, 2023. [[PDF]](https://www.sciencedirect.com/science/article/pii/S0924271623000953) [[Code]](https://github.com/zhaoxile/SSTC_CR)
-  
-  [9] L.-Y. Li, T.-Z. Huang^, Y.-B. Zheng^, W.-J. Zheng, **J. Lin**, G.-C. Wu, X.-L. Zhao, "Thick Cloud Removal for Multitemporal Remote Sensing Images: When Tensor Ring Decomposition Meets Gradient Domain Fidelity", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 61, pp. 1-14, 2023, Art no. 5512414. [[PDF]](https://ieeexplore.ieee.org/document/10125571?source=authoralert)
+  [6] Q. Jiang, X.-L. Zhao^, **J. Lin**, Y.-R. Fan, J. Peng, G.-C. Wu, "Superpixel-based Robust Tensor Low-Rank Approximation for Multimedia Data Recovery", _Knowledge-Based Systems_, vol. 277, pp. 110812, 2023. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0950705123005622)
 
-  [10] Y.-J. Pan, C. Wen, X.-L. Zhao^, M. Ding, **J. Lin**, Y.-R. Fan, "Irregular Tensor Representation for Superpixel-Guided Hyperspectral Image Denoising", _IEEE Geoscience and Remote Sensing Letters_, vol. 20, pp. 1-5, 2023, Art no. 5512305. [[PDF]](https://ieeexplore.ieee.org/document/10309852)
+  [7] Q. Jiang, X.-L. Zhao^, **J. Lin**, J. -H. Yang, J. Peng and T. -X. Jiang, "Superpixel-oriented Thick Cloud Removal Method for Multi-Temporal Remote Sensing Images", _IEEE Geoscience and Remote Sensing Letters_, 2023. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10364764)
   
-  [11] J. Huang^, W.-C. Di, J.-J. Wang, **J. Lin**, T.-Z. Huang, "Bilateral Joint-Sparse Regression for Hyperspectral Unmixing," _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 14, pp. 10147-10161, 2021. [[PDF]](https://github.com/jielin96/jielin96.github.io/files/7415298/Bilateral_Joint-Sparse_Regression_for_Hyperspectral_Unmixing.pdf) 
+  [8] H. Li, X.-L. Zhao^, **J. Lin**, Y. Chen, "Low-Rank Tensor Optimization with Nonlocal Plug-and-Play Regularizers for Snapshot Compressive Imaging",  _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 15, pp. 581-593, 2021. [[PDF]](https://ieeexplore.ieee.org/document/9655474)
+  
+  [9] W.-J. Zheng, X.-L. Zhao^, Y.-B. Zheng, **J. Lin**, L. Zhuang, T.-Z. Huang, "Spatial-Spectral-Temporal Connective Tensor Network Decomposition for Thick Cloud Removal", _ISPRS Journal of Photogrammetry and Remote Sensing_, vol. 199, pp. 182-194, 2023. [[PDF]](https://www.sciencedirect.com/science/article/pii/S0924271623000953) [[Code]](https://github.com/zhaoxile/SSTC_CR)
+  
+  [10] L.-Y. Li, T.-Z. Huang^, Y.-B. Zheng^, W.-J. Zheng, **J. Lin**, G.-C. Wu, X.-L. Zhao, "Thick Cloud Removal for Multitemporal Remote Sensing Images: When Tensor Ring Decomposition Meets Gradient Domain Fidelity", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 61, pp. 1-14, 2023, Art no. 5512414. [[PDF]](https://ieeexplore.ieee.org/document/10125571?source=authoralert)
+
+  [11] Y.-J. Pan, C. Wen, X.-L. Zhao^, M. Ding, **J. Lin**, Y.-R. Fan, "Irregular Tensor Representation for Superpixel-Guided Hyperspectral Image Denoising", _IEEE Geoscience and Remote Sensing Letters_, vol. 20, pp. 1-5, 2023, Art no. 5512305. [[PDF]](https://ieeexplore.ieee.org/document/10309852)
+  
+  [12] J. Huang^, W.-C. Di, J.-J. Wang, **J. Lin**, T.-Z. Huang, "Bilateral Joint-Sparse Regression for Hyperspectral Unmixing," _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 14, pp. 10147-10161, 2021. [[PDF]](https://github.com/jielin96/jielin96.github.io/files/7415298/Bilateral_Joint-Sparse_Regression_for_Hyperspectral_Unmixing.pdf) 
 
 
 - Conference:
