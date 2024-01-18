@@ -1,7 +1,7 @@
 # Jie Lin（林杰）
 
 <img src="https://github.com/jielin96/jielin96.github.io/assets/84367087/acfb3f1c-7acd-4030-bea5-cef8978c4ff7" width = "174" height = "217" alt="" align=right />
-I am currently pursuing the Ph.D. degree (advised by Prof. [Ting-Zhu Huang](https://www.researchgate.net/profile/Ting-Zhu-Huang) and Prof. [Xi-Le Zhao](https://zhaoxile.github.io/)) in Mathematics at [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) (UESTC), Chengdu, China
+I received the Ph.D. degree (advised by Prof. [Ting-Zhu Huang](https://www.researchgate.net/profile/Ting-Zhu-Huang) and Prof. [Xi-Le Zhao](https://zhaoxile.github.io/)) in Mathematics at [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) (UESTC), Chengdu, China
 
 **Research Interest:** low-rank and sparse modeling, tensor decomposition, and high-dimensional image processing
 <br/>
@@ -59,7 +59,7 @@ I am currently pursuing the Ph.D. degree (advised by Prof. [Ting-Zhu Huang](http
 
 ### Education
 
-- 09/2020-Current: University of Electronic Science and Technology of China (UESTC); Ph. D. student in Mathematics (Supervisor: Prof. [Ting-Zhu Huang](https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/10482?yxsh=11))
+- 09/2020-12/2023: University of Electronic Science and Technology of China (UESTC); Ph. D. student in Mathematics (Supervisor: Prof. [Ting-Zhu Huang](https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/10482?yxsh=11))
 - 09/2018-06/2020: University of Electronic Science and Technology of China (UESTC); Master student in Mathematics (Supervisor: Prof. [Ting-Zhu Huang](https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/10482?yxsh=11))
 - 09/2014-06/2018: Anhui University of Finance and Economics (AUFE); Bachelor student in Information and Computing Science
 
