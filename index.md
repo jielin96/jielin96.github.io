@@ -27,7 +27,7 @@ I received the Ph.D. degree (supervisor: Prof. [Ting-Zhu Huang](https://yjsjy.ue
 
   [7] Q. Jiang, X.-L. Zhao^, **J. Lin**, Y.-R. Fan, J. Peng, G.-C. Wu, "Superpixel-based Robust Tensor Low-Rank Approximation for Multimedia Data Recovery", _Knowledge-Based Systems_, vol. 277, pp. 110812, 2023. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0950705123005622)
 
-  [8] Q. Jiang, X.-L. Zhao^, **J. Lin**, J. -H. Yang, J. Peng and T. -X. Jiang, "Superpixel-oriented Thick Cloud Removal Method for Multi-Temporal Remote Sensing Images", _IEEE Geoscience and Remote Sensing Letters_, vol.21, pp. 1-5, 2024, Art no. 5500805. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10364764)
+  [8] Q. Jiang, X.-L. Zhao^, **J. Lin**, J. -H. Yang, J. Peng, T. -X. Jiang, "Superpixel-oriented Thick Cloud Removal Method for Multi-Temporal Remote Sensing Images", _IEEE Geoscience and Remote Sensing Letters_, vol.21, pp. 1-5, 2024, Art no. 5500805. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10364764)
   
   [9] H. Li, X.-L. Zhao^, **J. Lin**, Y. Chen, "Low-Rank Tensor Optimization with Nonlocal Plug-and-Play Regularizers for Snapshot Compressive Imaging",  _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 15, pp. 581-593, 2021. [[PDF]](https://ieeexplore.ieee.org/document/9655474)
   
