@@ -13,7 +13,7 @@ I received the Ph.D. degree (supervisor: Prof. [Ting-Zhu Huang](https://yjsjy.ue
 ### Publication
 - Journal:
 
-  [1] **J. Lin**, T.-Z. Huang^, X.-L. Zhao^, T.-Y. Ji, Q. Zhao, "Tensor Robust Kernel PCA for Multi-dimensional Data", _IEEE Transactions on Neural Networks and Learning Systems_, Accepted. [[PDF]](https://doi.org/10.1109/TNNLS.2024.3356228)
+  [1] **J. Lin**, T.-Z. Huang^, X.-L. Zhao^, T.-Y. Ji, Q. Zhao, "Tensor Robust Kernel PCA for Multi-dimensional Data", _IEEE Transactions on Neural Networks and Learning Systems_, Accepted. [[PDF]](https://doi.org/10.1109/TNNLS.2024.3356228) [[Code]](https://drive.google.com/file/d/1MAdJMin4bmrYq56NyzM_sivQvoFH0I-B/view?usp=drive_link)
 
   [2] **J. Lin**, T.-Z. Huang^, X.-L. Zhao^, Y. Chen, Q. Zhang, Q. Yuan, "Robust Thick Cloud Removal for Multi-Temporal Remote Sensing Images Using Coupled Tensor Factorization", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 60, pp. 1-16, 2022, Art no. 5406916. [[PDF]](https://ieeexplore.ieee.org/document/9672204)  [[Code]](https://drive.google.com/file/d/16dJixLGq1HxwxTzxleb2iO5y5d02aquI/view?usp=sharing)  [[Dataset]](https://drive.google.com/file/d/1_lAYZ3UspbpwbYy_NGAlPCVzOerdMpyO/view?usp=sharing)
 
