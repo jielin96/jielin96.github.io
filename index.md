@@ -5,7 +5,7 @@ I received the Ph.D. degree (supervisor: Prof. [Ting-Zhu Huang](https://yjsjy.ue
 
 **Research Interest:** low-rank and sparse modeling, tensor decomposition, and high-dimensional image processing
 <br/>
-**E-mail:** jielin96@126.com;          jielin@swjtu.edu.cn
+**E-mail:** <jielin96@126.com>;          <jielin@swjtu.edu.cn>
 <br/>
 **[[Google Scholar]](https://scholar.google.com/citations?user=sPcpHncAAAAJ&hl=en)** &emsp; **[[ResearchGate]](https://www.researchgate.net/profile/Jie-Lin-61)** &emsp; **[[GitHub]](https://github.com/jielin96)**
 
