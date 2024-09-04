@@ -1,7 +1,7 @@
 # Jie Lin（林杰）
 
 <img src="Github.jpg" width = "155" height = "206" alt="" align=right />
-I received the Ph.D. degree (supervisor: Prof. [Ting-Zhu Huang](https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/10482?yxsh=11)) in Mathematics at [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) (UESTC), Chengdu, China
+I am currently affiliated with the School of Mathematics at [Southwest Jiaotong University](https://www.swjtu.edu.cn/) (SWJTU). I earned my Ph.D. in Mathematics under the supervision of Prof. [Ting-Zhu Huang](https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/10482?yxsh=11) from the [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) (UESTC).
 
 **Research Interest:** low-rank and sparse modeling, tensor decomposition, and high-dimensional image processing
 <br/>
