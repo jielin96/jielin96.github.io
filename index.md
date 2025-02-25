@@ -13,7 +13,7 @@ I am currently affiliated with the School of Mathematics at [Southwest Jiaotong 
 ### Publication
 - Journal:
 
-  [1] **J. Lin**, T.-Z. Huang^, X.-L. Zhao^, T.-Y. Ji, Q. Zhao, "Tensor Robust Kernel PCA for Multi-dimensional Data", _IEEE Transactions on Neural Networks and Learning Systems_, Published Online. [[PDF]](https://doi.org/10.1109/TNNLS.2024.3356228) [[Code]](https://drive.google.com/file/d/1MAdJMin4bmrYq56NyzM_sivQvoFH0I-B/view?usp=drive_link)
+  [1] **J. Lin**, T.-Z. Huang^, X.-L. Zhao^, T.-Y. Ji, Q. Zhao, "Tensor Robust Kernel PCA for Multi-dimensional Data", _IEEE Transactions on Neural Networks and Learning Systems_, vol. 36, no. 2, pp. 2662-2674, 2025. [[PDF]](https://doi.org/10.1109/TNNLS.2024.3356228) [[Code]](https://drive.google.com/file/d/1MAdJMin4bmrYq56NyzM_sivQvoFH0I-B/view?usp=drive_link)
 
   [2] **J. Lin**, T.-Z. Huang^, X.-L. Zhao^, Y. Chen, Q. Zhang, Q. Yuan, "Robust Thick Cloud Removal for Multi-Temporal Remote Sensing Images Using Coupled Tensor Factorization", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 60, pp. 1-16, 2022, Art no. 5406916. [[PDF]](https://ieeexplore.ieee.org/document/9672204)  [[Code]](https://drive.google.com/file/d/16dJixLGq1HxwxTzxleb2iO5y5d02aquI/view?usp=sharing)  [[Dataset]](https://drive.google.com/file/d/1_lAYZ3UspbpwbYy_NGAlPCVzOerdMpyO/view?usp=sharing)
 
@@ -32,12 +32,16 @@ I am currently affiliated with the School of Mathematics at [Southwest Jiaotong 
   [9] H. Li, X.-L. Zhao^, **J. Lin**, Y. Chen, "Low-Rank Tensor Optimization with Nonlocal Plug-and-Play Regularizers for Snapshot Compressive Imaging",  _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 15, pp. 581-593, 2021. [[PDF]](https://ieeexplore.ieee.org/document/9655474)
   
   [10] W.-J. Zheng, X.-L. Zhao^, Y.-B. Zheng, **J. Lin**, L. Zhuang, T.-Z. Huang, "Spatial-Spectral-Temporal Connective Tensor Network Decomposition for Thick Cloud Removal", _ISPRS Journal of Photogrammetry and Remote Sensing_, vol. 199, pp. 182-194, 2023. [[PDF]](https://www.sciencedirect.com/science/article/pii/S0924271623000953) [[Code]](https://github.com/zhaoxile/SSTC_CR)
-  
-  [11] L.-Y. Li, T.-Z. Huang^, Y.-B. Zheng^, W.-J. Zheng, **J. Lin**, G.-C. Wu, X.-L. Zhao, "Thick Cloud Removal for Multitemporal Remote Sensing Images: When Tensor Ring Decomposition Meets Gradient Domain Fidelity", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 61, pp. 1-14, 2023, Art no. 5512414. [[PDF]](https://ieeexplore.ieee.org/document/10125571?source=authoralert)
 
-  [12] Y.-J. Pan, C. Wen, X.-L. Zhao^, M. Ding, **J. Lin**, Y.-R. Fan, "Irregular Tensor Representation for Superpixel-Guided Hyperspectral Image Denoising", _IEEE Geoscience and Remote Sensing Letters_, vol. 20, pp. 1-5, 2023, Art no. 5512305. [[PDF]](https://ieeexplore.ieee.org/document/10309852)
+  [11] H. Peng, T.-Z. Huang^, X.-L. Zhao^, **J. Lin**, W.-H. Wu, L.-Y. Li, "Deep Domain Fidelity and Low-Rank Tensor Ring Regularization for Thick Cloud Removal of Multitemporal Remote Sensing Images", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 62, pp. 1-14, 2024, Art no. 5409314. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10731945)
+
+  [12] Q. Jiang, X.-L. Zhao^, W.-H. Wu, W.-J. Zheng, **J. Lin**, "An Arbitrary Mode-3 Dimensional Tensor-Tensor Product for Tensor Train Decomposition From Interaction Perspective", _IEEE Transactions on Circuits and Systems for Video Technology_, 2025. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10896739)
   
-  [13] J. Huang^, W.-C. Di, J.-J. Wang, **J. Lin**, T.-Z. Huang, "Bilateral Joint-Sparse Regression for Hyperspectral Unmixing," _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 14, pp. 10147-10161, 2021. [[PDF]](https://github.com/jielin96/jielin96.github.io/files/7415298/Bilateral_Joint-Sparse_Regression_for_Hyperspectral_Unmixing.pdf) 
+  [13] L.-Y. Li, T.-Z. Huang^, Y.-B. Zheng^, W.-J. Zheng, **J. Lin**, G.-C. Wu, X.-L. Zhao, "Thick Cloud Removal for Multitemporal Remote Sensing Images: When Tensor Ring Decomposition Meets Gradient Domain Fidelity", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 61, pp. 1-14, 2023, Art no. 5512414. [[PDF]](https://ieeexplore.ieee.org/document/10125571?source=authoralert)
+
+  [14] Y.-J. Pan, C. Wen, X.-L. Zhao^, M. Ding, **J. Lin**, Y.-R. Fan, "Irregular Tensor Representation for Superpixel-Guided Hyperspectral Image Denoising", _IEEE Geoscience and Remote Sensing Letters_, vol. 20, pp. 1-5, 2023, Art no. 5512305. [[PDF]](https://ieeexplore.ieee.org/document/10309852)
+  
+  [15] J. Huang^, W.-C. Di, J.-J. Wang, **J. Lin**, T.-Z. Huang, "Bilateral Joint-Sparse Regression for Hyperspectral Unmixing," _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 14, pp. 10147-10161, 2021. [[PDF]](https://github.com/jielin96/jielin96.github.io/files/7415298/Bilateral_Joint-Sparse_Regression_for_Hyperspectral_Unmixing.pdf) 
 
 
 - Conference:
