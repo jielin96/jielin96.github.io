@@ -7,7 +7,7 @@ I am currently affiliated with the School of Mathematics at [Southwest Jiaotong 
 <br/>
 **E-mail:** <jielin96@126.com>;          <jielin@swjtu.edu.cn>
 <br/>
-**[[Google Scholar]](https://scholar.google.com/citations?user=sPcpHncAAAAJ&hl=en)** &emsp; **[[ResearchGate]](https://www.researchgate.net/profile/Jie-Lin-61)** &emsp; **[[GitHub]](https://github.com/jielin96)**
+**[[Google Scholar]](https://scholar.google.com/citations?user=3Ltd2WkAAAAJ&hl=en)** &emsp; **[[ResearchGate]](https://www.researchgate.net/profile/Jie-Lin-61)** &emsp; **[[GitHub]](https://github.com/jielin96)**
 
 
 ### Publication
